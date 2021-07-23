@@ -60,5 +60,19 @@ ul li {
 
 .trip-icon {
     font-size: 50px;
-    
+     color: #6b6767;
 }
+
+.reviewer-img {
+    top: -40px;
+    left: -47px;
+    z-index: 1;
+}
+.reviewer {
+    box-shadow:  28px 50px 23px 12px rgba(201, 196, 196, 0.86) ;
+}
+.subscribe-col {
+    background-color: #DFD7F9;
+}
+
+/**/
